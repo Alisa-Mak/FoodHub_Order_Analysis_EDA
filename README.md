@@ -1,4 +1,4 @@
-# FoodHub_Order_Analysis_EDA Project
+# FoodHub Order Analysis EDA Project
 
 Project Foundations for Data Science: FoodHub Data Analysis, [MIT Professional Education](https://professionalprogramsmit.com/en/mit-professional-education-knowledge-and-expertise-brand-eng.html?utm_source=Google&utm_medium=c&utm_term=mit%20professional%20education&utm_location=9000785&utm_network=g&utm_campaign=B-99999_US_GG_SE_MPE_Brand_Generic&utm_content=brand-generic-us&gad_source=1&gclid=CjwKCAjwyo60BhBiEiwAHmVLJVvb89tbdVYCEqFXI4goY4r2GF7RaoL3QEgWlh6NdrX7GF0cnKGgohoCWjQQAvD_BwE)
 
