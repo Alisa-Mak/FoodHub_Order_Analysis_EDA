@@ -11,3 +11,5 @@ The app allows the restaurants to receive a direct online order from a customer.
 ### Objective
 The food aggregator company has stored the data of the different orders made by the registered customers in their online portal. They want to analyze the data to get a fair idea about the demand of different restaurants which will help them in enhancing their customer experience. Suppose you are hired as a Data Scientist in this company and the Data Science team has shared some of the key questions that need to be answered. Perform the data analysis to find answers to these questions that will help the company to improve the business.
 
+### Key takeaways
+This project aims to build a strong foundation in programming and statistical analysis. It covers essential Python libraries such as Numpy and Pandas for data manipulation and visualization, and fundamental statistical concepts for inferential analysis and hypothesis testing. We have learned how to handle data, perform statistical tests, and visualize results effectively, setting a solid groundwork for more advanced topics in data science.
