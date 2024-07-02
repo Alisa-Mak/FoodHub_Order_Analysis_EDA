@@ -13,3 +13,7 @@ The food aggregator company has stored the data of the different orders made by 
 
 ### Key takeaways
 This project aims to build a strong foundation in programming and statistical analysis. It covers essential Python libraries such as Numpy and Pandas for data manipulation and visualization, and fundamental statistical concepts for inferential analysis and hypothesis testing. We have learned how to handle data, perform statistical tests, and visualize results effectively, setting a solid groundwork for more advanced topics in data science.
+* pandas
+* numPy
+* matplotlib
+* seaborn
